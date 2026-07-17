@@ -1,4 +1,5 @@
-#include <chrono>
-#include <thread>
+#include <iostream>
 
-int main() {}
+int main(int, char**){
+    std::cout << "Hello, from sandbox!\n";
+}
