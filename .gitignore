@@ -3,3 +3,7 @@ out/
 CMakeLists.txt
 CMakePresets.json
 
+
+# VARS
+howToStudyPlan.txt
+todo.txt
